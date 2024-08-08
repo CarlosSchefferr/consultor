@@ -7,6 +7,7 @@
 <head>
     <style>
         .container {
+            font-family: 'Montserrat', sans-serif;
             display: flex;
             flex-direction: column;
             justify-content: center;
