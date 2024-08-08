@@ -64,6 +64,7 @@
         }
 
         .gerenciar {
+            font-family: none;
             font-size: large;
             padding: 10px 50px;
             background-color: #007bff;
@@ -79,6 +80,7 @@
         }
 
         .lead {
+            
             font-size: 1.5rem;
             color: black
             
