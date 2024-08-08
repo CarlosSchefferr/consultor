@@ -39,4 +39,9 @@ Este projeto é uma aplicação web desenvolvida com PHP e o framework Laravel 1
 3. **Execute as Migrações**: As migrações criarão as tabelas necessárias no banco de dados.
 4. **Inicie o Servidor de Desenvolvimento**: Use `php artisan serve` para iniciar o servidor localmente.
 
+
+## Acesso à Aplicação
+
+- Você pode acessar a aplicação através do seguinte link: https://abrir.link/yTrCx
+
 Se precisar de ajustes ou mais informações específicas, me avise!
