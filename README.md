@@ -34,8 +34,9 @@ Este projeto é uma aplicação web desenvolvida com PHP e o framework Laravel 1
 
 ## Instalação e Configuração
 
-### 1. Clonar o Repositório
+1. **Clone o Repositório**: Substitua `https://github.com/seu-usuario/seu-repositorio.git` pelo URL do seu repositório no GitHub.
+2. **Configure o Ambiente**: Certifique-se de que as variáveis no arquivo `.env` estão corretas.
+3. **Execute as Migrações**: As migrações criarão as tabelas necessárias no banco de dados.
+4. **Inicie o Servidor de Desenvolvimento**: Use `php artisan serve` para iniciar o servidor localmente.
 
-```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+Se precisar de ajustes ou mais informações específicas, me avise!
