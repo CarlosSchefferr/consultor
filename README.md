@@ -42,6 +42,6 @@ Este projeto é uma aplicação web desenvolvida com PHP e o framework Laravel 1
 
 ## Acesso à Aplicação
 
-- Você pode acessar a aplicação através do seguinte link: https://abrir.link/kmlnD
+- Você pode acessar a aplicação através do seguinte link:  https://abrir.link/CWgdg
 
 Se precisar de ajustes ou mais informações específicas, me avise!
