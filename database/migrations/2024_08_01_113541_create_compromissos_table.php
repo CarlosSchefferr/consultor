@@ -10,8 +10,7 @@ class CreateCompromissosTable extends Migration
     {
         Schema::create('compromissos', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('consultor_id')->constrained('consultores'); // Se estiver usando chaves estrangeiras
-            $table->date('data');
+            $table->foreignId('consultor_id')->constrained('consultores'); 
             $table->time('hora_inicio');
             $table->time('hora_fim');
             $table->time('intervalo');

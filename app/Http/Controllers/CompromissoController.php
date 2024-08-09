@@ -24,7 +24,7 @@ class CompromissoController extends Controller
 
         $compromissos = $compromissos->get();
 
-        // Calcula o total de horas e o valor total para cada compromisso
+        
         foreach ($compromissos as $compromisso) {
             $horaInicio = Carbon::createFromFormat('H:i:s', $compromisso->hora_inicio);
             $horaFim = Carbon::createFromFormat('H:i:s', $compromisso->hora_fim);
@@ -35,7 +35,7 @@ class CompromissoController extends Controller
             $compromisso->valor_total = $totalHoras * $compromisso->consultor->valor_hora;
         }
 
-        // Calcula o totalizador geral
+        
         $totalHorasGeral = $compromissos->sum('total_horas');
         $valorTotalGeral = $compromissos->sum('valor_total');
 
