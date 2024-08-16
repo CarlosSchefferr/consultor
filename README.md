@@ -40,8 +40,4 @@ Este projeto é uma aplicação web desenvolvida com PHP e o framework Laravel 1
 4. **Inicie o Servidor de Desenvolvimento**: Use `php artisan serve` para iniciar o servidor localmente.
 
 
-## Acesso à Aplicação
-
-- Você pode acessar a aplicação através do seguinte link:  https://abrir.link/adhkr
-
 Se precisar de ajustes ou mais informações específicas, me avise!
